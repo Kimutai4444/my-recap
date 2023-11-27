@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(images/back.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    padding-top: 22%;
+    font-size: 60px;
+    /* margin-top: 25%; */
+}
